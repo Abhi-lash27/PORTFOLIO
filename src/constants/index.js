@@ -76,14 +76,7 @@ export const PROJECTS = [
   description:
     "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
   technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-  },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "React", "Tailwind"],
-  },
+  }
 
 ];
 
